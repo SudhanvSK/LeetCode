@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1929-concatenation-of-array](https://github.com/SudhanvSK/LeetCode/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SudhanvSK/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SudhanvSK/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Hash Table
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/SudhanvSK/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SudhanvSK/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SudhanvSK/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3945-digit-frequency-score](https://github.com/SudhanvSK/LeetCode/tree/master/3945-digit-frequency-score) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SudhanvSK/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SudhanvSK/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Brainteaser
