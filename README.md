@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SudhanvSK/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/SudhanvSK/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SudhanvSK/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SudhanvSK/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SudhanvSK/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SudhanvSK/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SudhanvSK/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/SudhanvSK/LeetCode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SudhanvSK/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/SudhanvSK/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SudhanvSK/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3945-digit-frequency-score](https://github.com/SudhanvSK/LeetCode/tree/master/3945-digit-frequency-score) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SudhanvSK/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tree
 |  |
 | ------- |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/SudhanvSK/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SudhanvSK/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SudhanvSK/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Minimax
 |  |
