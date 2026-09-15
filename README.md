@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SudhanvSK/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/SudhanvSK/LeetCode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SudhanvSK/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SudhanvSK/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1854-maximum-population-year](https://github.com/SudhanvSK/LeetCode/tree/master/1854-maximum-population-year) |
 | [1929-concatenation-of-array](https://github.com/SudhanvSK/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SudhanvSK/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/SudhanvSK/LeetCode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SudhanvSK/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SudhanvSK/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/SudhanvSK/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SudhanvSK/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/SudhanvSK/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SudhanvSK/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SudhanvSK/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SudhanvSK/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1854-maximum-population-year](https://github.com/SudhanvSK/LeetCode/tree/master/1854-maximum-population-year) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SudhanvSK/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SudhanvSK/LeetCode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SudhanvSK/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SudhanvSK/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SudhanvSK/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SudhanvSK/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -541,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/SudhanvSK/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/SudhanvSK/LeetCode/tree/master/0476-number-complement) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SudhanvSK/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/SudhanvSK/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Union-Find
 |  |
