@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/SudhanvSK/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/SudhanvSK/LeetCode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SudhanvSK/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SudhanvSK/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SudhanvSK/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1854-maximum-population-year](https://github.com/SudhanvSK/LeetCode/tree/master/1854-maximum-population-year) |
 | [1929-concatenation-of-array](https://github.com/SudhanvSK/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/SudhanvSK/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/SudhanvSK/LeetCode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SudhanvSK/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SudhanvSK/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SudhanvSK/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/SudhanvSK/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SudhanvSK/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SudhanvSK/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SudhanvSK/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/SudhanvSK/LeetCode/tree/master/0877-stone-game) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SudhanvSK/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SudhanvSK/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SudhanvSK/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Stack
 |  |
 | ------- |
