@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/SudhanvSK/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/SudhanvSK/LeetCode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SudhanvSK/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/SudhanvSK/LeetCode/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/SudhanvSK/LeetCode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/SudhanvSK/LeetCode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/SudhanvSK/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0561-array-partition](https://github.com/SudhanvSK/LeetCode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SudhanvSK/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SudhanvSK/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -643,4 +646,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SudhanvSK/LeetCode/tree/master/0022-generate-parentheses) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/SudhanvSK/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
