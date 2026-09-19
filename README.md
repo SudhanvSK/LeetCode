@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SudhanvSK/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/SudhanvSK/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/SudhanvSK/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SudhanvSK/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/SudhanvSK/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SudhanvSK/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SudhanvSK/LeetCode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/SudhanvSK/LeetCode/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/SudhanvSK/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Data Stream
