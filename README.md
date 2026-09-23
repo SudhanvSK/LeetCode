@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/SudhanvSK/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/SudhanvSK/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SudhanvSK/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SudhanvSK/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SudhanvSK/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SudhanvSK/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/SudhanvSK/LeetCode/tree/master/3871-count-commas-in-range-ii) |
