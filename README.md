@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SudhanvSK/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SudhanvSK/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/SudhanvSK/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SudhanvSK/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SudhanvSK/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/SudhanvSK/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/SudhanvSK/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/SudhanvSK/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SudhanvSK/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SudhanvSK/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SudhanvSK/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
@@ -586,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SudhanvSK/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SudhanvSK/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/SudhanvSK/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SudhanvSK/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/SudhanvSK/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Data Stream
