@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/SudhanvSK/LeetCode/tree/master/0525-contiguous-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/SudhanvSK/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/SudhanvSK/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/SudhanvSK/LeetCode/tree/master/0520-detect-capital) |
+| [0535-encode-and-decode-tinyurl](https://github.com/SudhanvSK/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/SudhanvSK/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SudhanvSK/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SudhanvSK/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0535-encode-and-decode-tinyurl](https://github.com/SudhanvSK/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/SudhanvSK/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
