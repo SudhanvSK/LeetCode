@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SudhanvSK/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/SudhanvSK/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/SudhanvSK/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SudhanvSK/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/SudhanvSK/LeetCode/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/SudhanvSK/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/SudhanvSK/LeetCode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SudhanvSK/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/SudhanvSK/LeetCode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/SudhanvSK/LeetCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/SudhanvSK/LeetCode/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/SudhanvSK/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0455-assign-cookies](https://github.com/SudhanvSK/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/SudhanvSK/LeetCode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SudhanvSK/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -684,4 +688,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/SudhanvSK/LeetCode/tree/master/0561-array-partition) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SudhanvSK/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
