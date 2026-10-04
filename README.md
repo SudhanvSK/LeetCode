@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/SudhanvSK/LeetCode/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SudhanvSK/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/SudhanvSK/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/SudhanvSK/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SudhanvSK/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/SudhanvSK/LeetCode/tree/master/1108-defanging-an-ip-address) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SudhanvSK/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/SudhanvSK/LeetCode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/SudhanvSK/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SudhanvSK/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SudhanvSK/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Dynamic Programming
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/SudhanvSK/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/SudhanvSK/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/SudhanvSK/LeetCode/tree/master/0877-stone-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SudhanvSK/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/SudhanvSK/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/SudhanvSK/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SudhanvSK/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SudhanvSK/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -686,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SudhanvSK/LeetCode/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/SudhanvSK/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SudhanvSK/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Counting Sort
 |  |
