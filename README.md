@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/SudhanvSK/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SudhanvSK/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/SudhanvSK/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/SudhanvSK/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SudhanvSK/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SudhanvSK/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/SudhanvSK/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/SudhanvSK/LeetCode/tree/master/0455-assign-cookies) |
