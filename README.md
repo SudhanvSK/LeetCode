@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/SudhanvSK/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SudhanvSK/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SudhanvSK/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SudhanvSK/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SudhanvSK/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SudhanvSK/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SudhanvSK/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/SudhanvSK/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SudhanvSK/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SudhanvSK/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SudhanvSK/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SudhanvSK/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -605,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SudhanvSK/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Interactive
 |  |
 | ------- |
