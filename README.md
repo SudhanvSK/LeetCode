@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SudhanvSK/LeetCode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SudhanvSK/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SudhanvSK/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SudhanvSK/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SudhanvSK/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SudhanvSK/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SudhanvSK/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SudhanvSK/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SudhanvSK/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/SudhanvSK/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SudhanvSK/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -699,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/SudhanvSK/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SudhanvSK/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SudhanvSK/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SudhanvSK/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Minimax
 |  |
 | ------- |
