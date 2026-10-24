@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SudhanvSK/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SudhanvSK/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SudhanvSK/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2409-count-days-spent-together](https://github.com/SudhanvSK/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3110-score-of-a-string](https://github.com/SudhanvSK/LeetCode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/SudhanvSK/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SudhanvSK/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SudhanvSK/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SudhanvSK/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [2409-count-days-spent-together](https://github.com/SudhanvSK/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SudhanvSK/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/SudhanvSK/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SudhanvSK/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
