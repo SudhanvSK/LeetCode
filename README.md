@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/SudhanvSK/LeetCode/tree/master/1051-height-checker) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SudhanvSK/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SudhanvSK/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/SudhanvSK/LeetCode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SudhanvSK/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SudhanvSK/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SudhanvSK/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SudhanvSK/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/SudhanvSK/LeetCode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SudhanvSK/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SudhanvSK/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/SudhanvSK/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SudhanvSK/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SudhanvSK/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SudhanvSK/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SudhanvSK/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SudhanvSK/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
