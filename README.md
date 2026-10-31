@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/SudhanvSK/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0875-koko-eating-bananas](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/SudhanvSK/LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/SudhanvSK/LeetCode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/SudhanvSK/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/SudhanvSK/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SudhanvSK/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SudhanvSK/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SudhanvSK/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/SudhanvSK/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/SudhanvSK/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/SudhanvSK/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SudhanvSK/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
