@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/SudhanvSK/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SudhanvSK/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SudhanvSK/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SudhanvSK/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SudhanvSK/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SudhanvSK/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SudhanvSK/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/SudhanvSK/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/SudhanvSK/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SudhanvSK/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SudhanvSK/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SudhanvSK/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SudhanvSK/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SudhanvSK/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
