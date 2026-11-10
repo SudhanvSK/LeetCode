@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SudhanvSK/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SudhanvSK/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/SudhanvSK/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3693-climbing-stairs-ii](https://github.com/SudhanvSK/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SudhanvSK/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/SudhanvSK/LeetCode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SudhanvSK/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SudhanvSK/LeetCode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SudhanvSK/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SudhanvSK/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3693-climbing-stairs-ii](https://github.com/SudhanvSK/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SudhanvSK/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sliding Window
 |  |
