@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SudhanvSK/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SudhanvSK/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/SudhanvSK/LeetCode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/SudhanvSK/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SudhanvSK/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SudhanvSK/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SudhanvSK/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
