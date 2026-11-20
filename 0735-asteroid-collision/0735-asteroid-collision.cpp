@@ -10,8 +10,8 @@ public:
             else {
                 int j = st.size() - 1;
                 while(j>=0) {
-                if(abs(a[i]) > st[j]) st[j] = 0;
-                else if(abs(a[i]) == st[j]) {st[j]=0; ok = false; break;}
+                if(abs(a[i]) > st[j]) st.erase(st.begin()+j);
+                else if(abs(a[i]) == st[j]) {st.erase(st.begin()+j); ok = false; break;}
                 else {ok = false; break;}
                 j--;
             }
