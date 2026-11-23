@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/SudhanvSK/LeetCode/tree/master/1051-height-checker) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SudhanvSK/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SudhanvSK/LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SudhanvSK/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SudhanvSK/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/SudhanvSK/LeetCode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SudhanvSK/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/SudhanvSK/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SudhanvSK/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SudhanvSK/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SudhanvSK/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SudhanvSK/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SudhanvSK/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/SudhanvSK/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/SudhanvSK/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SudhanvSK/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SudhanvSK/LeetCode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SudhanvSK/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SudhanvSK/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SudhanvSK/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SudhanvSK/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SudhanvSK/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SudhanvSK/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -715,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SudhanvSK/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SudhanvSK/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Graph Theory
 |  |
 | ------- |
