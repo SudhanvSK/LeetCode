@@ -785,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/SudhanvSK/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/SudhanvSK/LeetCode/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/SudhanvSK/LeetCode/tree/master/0184-department-highest-salary) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SudhanvSK/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Enumeration
 |  |
 | ------- |
